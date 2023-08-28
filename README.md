@@ -1,3 +1,17 @@
+# line-clone
+
+### Overview
+Created a basic **_Line Clone_** Web App using **React** and **Firebase** for learning purposes.
+
+### Links
+- [Firebase](https://console.firebase.google.com/u/1/project/line-clone-c9886/overview)
+
+### References
+- [Github](https://github.com/Shin-sibainu/Line-Clone-with-react-firebase)
+- [Youtube](https://www.youtube.com/watch?v=Js9BsBsczE8)
+
+<img width="800" alt="image" src="https://github.com/chihiroanihr/line-clone/assets/42660669/045e2c52-a057-411d-87b0-e3c633388bea">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
